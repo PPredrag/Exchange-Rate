@@ -1,0 +1,39 @@
+.icon{
+	width: 32px;
+	height: 32px;
+	margin:2px;
+}
+.sredina{
+	text-align: center;
+	margin-bottom: 2%;
+
+}
+body{
+	color: #707172;	
+}
+#inline{
+	display: inline-block;
+}
+#konvertor{
+	border:1px solid gray;
+	padding-bottom: 40px;
+	padding-right:0;
+	background-color: white;
+
+}
+#dugme{
+	margin-top: 15px !important;
+}
+#result{
+	
+	background-color: white;
+	border:1px solid gray;
+}
+.lista{
+	border:1px solid gray;	
+}
+#buttonConvector{
+	display: inline-block;
+	position: absolute;
+	right: 15px;
+}
